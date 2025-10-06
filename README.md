@@ -67,7 +67,7 @@ I’m generally open to discussion, collaboration, critique, or sharing ideas.
 
 ---
 
-## (Optional) Guiding Principle  
+## Guiding Principle  
 
 > *“Ship small bets, and learn fast.”*
 
@@ -75,7 +75,7 @@ I try to avoid large speculative dead ends — instead, build many small prototy
 
 ---
 
-## License & Attribution  
+## License and Attribution  
 
 Unless otherwise noted, all code, writings, and tools in this repository are published under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Please check each subproject for its specific license.  
 

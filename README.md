@@ -44,7 +44,7 @@ I don’t aim to use every trendy tool (though I do stay up to date) — I prefe
 
 ---
 
-## What I’m Learning (or Want to Learn Next)  
+## How I'm Evolving
 
 - More functional expressions of React/NextJS/JavaScript
 - AI tooling

@@ -33,12 +33,12 @@ If you browse my repo list, you’ll see many experiments and sub‑tools branch
 These are the main tools, frameworks, languages, or patterns I lean on or return to frequently:
 
 - **JavaScript / TypeScript / React / NextJS** (for web, dApps, front-end logic)
-- **Node / Payload** (for backend, full stack apps)
-- **Solidity / Ethereum / smart contracts** (for token logic and decentralised systems)  
-- **Markdown + Pandoc + LaTeX** (for writing, papers, presentations)  
+- **Node / Payload** (for backend, full-stack apps)
+- **Markdown + Pandoc + LaTeX** (for writing papers and presentations)  
 - **Git / GitHub** (version control, publishing, open source)  
 - **Design Science Research / iterative prototyping** (as methodological backbone)  
 - **Basic tools & scripts** for glue logic (shell scripts, node utilities, minimal frameworks)  
+- **Solidity / Ethereum / smart contracts** (for token logic and decentralised systems)  
 
 I don’t aim to use every trendy tool (though I do stay up to date) — I prefer simple, composable, transparent stacks where I understand the plumbing intimately.
 
@@ -48,11 +48,12 @@ I don’t aim to use every trendy tool (though I do stay up to date) — I prefe
 
 - More functional expressions of React/NextJS/JavaScript
 - AI tooling
-- Deeper models of tokenomics, especially coupling real-world signals (e.g. energy use) to on‑chain behaviour  
-- More advanced formal verification or safety tools for smart contracts  
+- Different platforms for publishing games
 - Better workflows for “writing-as-code” (i.e. integrating narrative, docs, code, experiments)  
 - Experimenting with generative creative systems (poetry, stories) that embed or interact with software  
 - Scaling research ideas into usable systems (bridging prototype → production)
+- Deeper models of tokenomics, especially coupling real-world signals (e.g. energy use) to on‑chain behaviour  
+- More advanced formal verification or safety tools (especially for smart contracts)
 
 ---
 
@@ -77,13 +78,4 @@ I try to avoid large speculative dead ends — instead, build many small prototy
 ## License & Attribution  
 
 Unless otherwise noted, all code, writings, and tools in this repository are under permissive open licenses (MIT / CC‑BY / etc). Please check each subproject for its specific license.  
-
-
-
-
-
-
-
-No file chosenNo file chosen
-ChatGPT can make mistakes. Check important info. See Cookie Preferences.
 

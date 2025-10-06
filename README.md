@@ -77,5 +77,5 @@ I try to avoid large speculative dead ends — instead, build many small prototy
 
 ## License & Attribution  
 
-Unless otherwise noted, all code, writings, and tools in this repository are under permissive open licenses (MIT / CC‑BY / etc). Please check each subproject for its specific license.  
+Unless otherwise noted, all code, writings, and tools in this repository are published under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Please check each subproject for its specific license.  
 

@@ -37,8 +37,7 @@ These are the main tools, frameworks, languages, or patterns I lean on or return
 - **Markdown + Pandoc + LaTeX** (for writing papers and presentations)  
 - **Git / GitHub** (version control, publishing, open source)  
 - **Design Science Research / iterative prototyping** (as methodological backbone)  
-- **Basic tools & scripts** for glue logic (shell scripts, node utilities, minimal frameworks)  
-- **Solidity / Ethereum / smart contracts** (for token logic and decentralised systems)  
+- **Basic tools and scripts** for glue logic (shell scripts, node utilities, minimal frameworks)  
 
 I don’t aim to use every trendy tool (though I do stay up to date) — I prefer simple, composable, transparent stacks where I understand the plumbing intimately.
 
@@ -48,19 +47,16 @@ I don’t aim to use every trendy tool (though I do stay up to date) — I prefe
 
 - More functional expressions of React/NextJS/JavaScript
 - AI tooling
-- Different platforms for publishing games
-- Better workflows for “writing-as-code” (i.e. integrating narrative, docs, code, experiments)  
 - Experimenting with generative creative systems (poetry, stories) that embed or interact with software  
 - Scaling research ideas into usable systems (bridging prototype → production)
-- Deeper models of tokenomics, especially coupling real-world signals (e.g. energy use) to on‑chain behaviour  
-- More advanced formal verification or safety tools (especially for smart contracts)
 
 ---
 
 ## How to Reach Dr Huckle  
 
 - Website/portfolio: [https://huckle.studio](https://huckle.studio/)
-- GitHub: [glowkeeper](https://github.com/glowkeeper) 
+- GitHub: [glowkeeper](https://github.com/glowkeeper)
+- LinkedIn: [Dr Steve Huckle](https://www.linkedin.com/in/steve-huckle-914330319/)
 - (Optionally) via academic email or via the [contact](https://huckle.studio/about/contact) page on huckle.studio  
 
 I’m generally open to discussion, collaboration, critique, or sharing ideas.
@@ -71,7 +67,7 @@ I’m generally open to discussion, collaboration, critique, or sharing ideas.
 
 > *“Ship small bets, and learn fast.”*
 
-I try to avoid large speculative dead ends — instead, build many small prototypes, learn from failure, and grow the ones that resonate.
+I try to avoid large speculative dead ends — instead, I build many small prototypes, learn from failure, and grow the ones that resonate.
 
 ---
 

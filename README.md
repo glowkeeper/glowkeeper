@@ -1,4 +1,4 @@
-# glowkeeper / Dr Steve Huckle
+# glowkeeper / Dr Steven Huckle
 
 *Where code, creativity, and curiosity meet.*
 

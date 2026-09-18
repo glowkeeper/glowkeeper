@@ -19,7 +19,7 @@ and learn from.
   modern version of Bagels, the old deductive number game.
 
 - **[The Horizontal Front](https://thehorizontalfront.org/)** — a
-  satirical arcade game about collective power, mutual aid and
+  satirical arcade game about Capitalism and
   resistance to hierarchy.
   [Source →](https://github.com/glowkeeper/the-horizontal-front)
 
